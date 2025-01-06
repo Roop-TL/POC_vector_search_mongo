@@ -1,0 +1,1 @@
+# POC_vector_search_mongo
